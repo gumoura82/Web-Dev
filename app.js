@@ -41,6 +41,4 @@ function submitContact() {
     } else {
         alert("Preencha todos os campos")
     }
-
-    alert("Enviado com sucesso!")
 }
