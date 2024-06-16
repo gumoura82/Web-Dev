@@ -1,0 +1,12 @@
+.lc {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contact{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
